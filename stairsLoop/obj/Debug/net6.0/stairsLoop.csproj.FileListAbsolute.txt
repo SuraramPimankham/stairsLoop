@@ -1,0 +1,15 @@
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\bin\Debug\net6.0\stairsLoop.exe
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\bin\Debug\net6.0\stairsLoop.deps.json
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\bin\Debug\net6.0\stairsLoop.runtimeconfig.json
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\bin\Debug\net6.0\stairsLoop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\bin\Debug\net6.0\stairsLoop.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.csproj.AssemblyReference.cache
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.AssemblyInfoInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.AssemblyInfo.cs
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.csproj.CoreCompileInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\refint\stairsLoop.dll
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\stairsLoop.genruntimeconfig.cache
+C:\Users\goodt\OneDrive\Desktop\C#\stairsLoop\stairsLoop\obj\Debug\net6.0\ref\stairsLoop.dll
