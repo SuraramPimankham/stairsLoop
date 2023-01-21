@@ -1,6 +1,6 @@
 # stairsLoop
 
 O
-OO
-OOO
-OOOO
+\nOO
+\nOOO
+\nOOOO
